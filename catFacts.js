@@ -24,7 +24,7 @@ const container = document.createElement('div');
 container.setAttribute('class', 'container');
 
 
-fetch(`${baseURL}/facts/random?amount=10`)
+fetch(`${baseURL}/facts/random?amount=3`)
   .then(function (result) {
     return result.json();
   })
