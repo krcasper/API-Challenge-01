@@ -35,6 +35,7 @@ body {
     font-family: sans-serif;
     background-image: url(../API-Challenge-01/assets/catGlasses.jpg);
     background-size: cover;
+    position: absolute;
 }
   
 
